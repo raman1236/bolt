@@ -7,6 +7,6 @@ guide: |
     Getting Started Guide       https://help.puppet.com/bolt/current/topics/getting_started_with_bolt.htm
     Reference Documentation     https://help.puppet.com/bolt/current/topics/bolt.htm
     Troubleshooting Bolt        https://help.puppet.com/bolt/current/topics/troubleshooting.htm
-    Bolt Developer Updates      https://help.puppet.com/bolt/current/topics/changelog.htm
+    Bolt Developer Updates      https://help.puppet.com/bolt/current/topics/release_notes.htm
     Bolt Changelog              https://help.puppet.com/bolt/current/topics/changelog.htm
-    Bolt Examples               https://help.puppet.com/bolt/current/topics/bolt.htm
+    Bolt Examples               https://help.puppet.com/bolt/current/topics/using_basic_tasks_and_plans.htm
